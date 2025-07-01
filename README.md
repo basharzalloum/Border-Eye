@@ -5,7 +5,7 @@
 ---
 
 ## 📽️ Demo Video  
-[▶️ Watch on YouTube](https://www.youtube.com/watch?v=youtu.be/b4EaE7Npt9o)
+[▶️ Watch on YouTube](https://youtu.be/b4EaE7Npt9o)
 
 ---
 
